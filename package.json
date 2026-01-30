@@ -90,7 +90,7 @@
     "@fjell/logging": "^4.4.68",
     "@google/generative-ai": "^0.24.1",
     "@modelcontextprotocol/sdk": "^1.25.3",
-    "@theunwalked/cardigantime": "^0.0.22",
+    "@theunwalked/cardigantime": "^0.0.23",
     "@theunwalked/pressurelid": "^1.0.2",
     "@theunwalked/spotclean": "^0.0.3",
     "commander": "^14.0.2",
