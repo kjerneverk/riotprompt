@@ -1,6 +1,6 @@
 {
   "name": "@kjerneverk/riotprompt",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "_versionReset": "2026-01-15",
   "keywords": [
     "prompt",
@@ -90,7 +90,7 @@
     "@fjell/logging": "^4.4.68",
     "@google/generative-ai": "^0.24.1",
     "@modelcontextprotocol/sdk": "^1.25.3",
-    "@utilarium/cardigantime": "^0.0.24",
+    "@utilarium/cardigantime": "^0.0.25",
     "@utilarium/pressurelid": "^1.0.3",
     "@utilarium/spotclean": "^0.0.4",
     "commander": "^14.0.2",
